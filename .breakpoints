@@ -1,3 +1,12 @@
 {
-  "files": {}
+  "files": {
+    "Enemy.class": [
+      {
+        "id": "f329767e-4fd4-4461-aba7-a719b14714cd",
+        "line": 7,
+        "version": 1,
+        "index": 184
+      }
+    ]
+  }
 }
